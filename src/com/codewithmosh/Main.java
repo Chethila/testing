@@ -6,6 +6,7 @@ public class Main {
         System.out.println(calc(2,2));
     }
     public static float calc(float a, float b) {
+        System.out.println("Maths");
         float total = a + b ;
         return total;
     }
